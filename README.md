@@ -1,2 +1,2 @@
 # vim-ruie
-A Dark Colorscheme for Vim and iTerm
+A Dark Colorscheme for Vim and iTerm MacOS
